@@ -37,15 +37,15 @@ Os pontos em negrito se destacam como características para se tornar **Tech Lea
 
 ## 2: O usuário deve poder adicionar uma nova ferramenta
 
-[](https://www.notion.so/7e048c1d54274a15b26e50f2a4d52d6c#9cc4335a46cb425d98cf4a0a0581fc17)
+![Wireframe_2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F73d42f2c-51b5-4b7e-8158-372335c712ae%2Fadd-tool.png?table=block&id=9cc4335a-46cb-425d-98cf-4a0a0581fc17&width=2560&cache=v2)
 
 ## 3: O usuário deve poder remover uma ferramenta
 
-[](https://www.notion.so/7e048c1d54274a15b26e50f2a4d52d6c#bab5a791760b4e89bebcd7f580c76769)
+![Wireframe_3](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3c2a9c92-4ea4-4711-bf15-d897b2909421%2Fremove-tool.png?table=block&id=bab5a791-760b-4e89-bebc-d7f580c76769&width=2560&cache=v2)
 
 ## 4: O usuário deve poder buscar ferramentas dinamicamente (global ou utilizando apenas tags)
 
-[](https://www.notion.so/7e048c1d54274a15b26e50f2a4d52d6c#ec770b950245470481b3b08d566d3510)
+![Wireframe_4](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6e6287ba-3584-47c6-afba-831258a2b0f1%2Fsearch.png?table=block&id=ec770b95-0245-4704-81b3-b08d566d3510&width=2560&cache=v2)
 
 ## Critérios de Aceitação
 
