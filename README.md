@@ -1,7 +1,6 @@
 # Dev. Front-End
 
-Sua tarefa é construir um front-end para a aplicação VUTTR (Very Useful Tools to Remember). A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags. Crie um fork desse repositório e submeta a resolução do desafio como pull request.
-
+Sua tarefa é construir um front-end para a aplicação VUTTR (Very Useful Tools to Remember). A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags. Utilize um repositório Git (público, de preferência) para versionamento e disponibilização do código.
 O front-end deve ser construído utilizando Angular2+, utilizando [este style guide](https://xd.adobe.com/spec/6a82c840-1813-4b23-6919-2ac91409d104-1cb3/) e seguindo os wireframes apresentados abaixo.
 
 ## O que será avaliado
@@ -34,7 +33,7 @@ Os pontos em negrito se destacam como características para se tornar **Tech Lea
 
 ## 1: O(A) usuário(a) deve poder ver a lista de todas as ferramentas cadastradas
 
-[](https://www.notion.so/7e048c1d54274a15b26e50f2a4d52d6c#8c50c90e0bc6430a9741366bf333172f)
+[](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F75d16a8e-e4da-43e6-ab85-effcf60ee83e%2FHome.png?table=block&id=8c50c90e-0bc6-430a-9741-366bf333172f&width=2730&cache=v2)
 
 ## 2: O usuário deve poder adicionar uma nova ferramenta
 
