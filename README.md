@@ -53,6 +53,6 @@ Os pontos em negrito se destacam como características para se tornar **Tech Lea
 
 # API
 
-[https://gitlab.com/bossabox/challenge-fake-api/tree/master](https://gitlab.com/bossabox/challenge-fake-api/tree/master)
+[https://github.com/gustavo-startaideia/rest-fake-api](https://github.com/gustavo-startaideia/rest-fake-api)
 
 ---
