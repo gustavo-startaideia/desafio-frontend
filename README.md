@@ -33,7 +33,7 @@ Os pontos em negrito se destacam como características para se tornar **Tech Lea
 
 ## 1: O(A) usuário(a) deve poder ver a lista de todas as ferramentas cadastradas
 
-[](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F75d16a8e-e4da-43e6-ab85-effcf60ee83e%2FHome.png?table=block&id=8c50c90e-0bc6-430a-9741-366bf333172f&width=2730&cache=v2)
+![Wireframe_1](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F75d16a8e-e4da-43e6-ab85-effcf60ee83e%2FHome.png?table=block&id=8c50c90e-0bc6-430a-9741-366bf333172f&width=2730&cache=v2)
 
 ## 2: O usuário deve poder adicionar uma nova ferramenta
 
